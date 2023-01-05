@@ -1,0 +1,1 @@
+created new environment for the project azurefastapi
